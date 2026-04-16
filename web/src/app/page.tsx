@@ -63,7 +63,7 @@ export default function Home() {
               <Sparkle />
             </div>
             <div className="text-4xl sm:text-5xl font-bold tracking-tight mb-3">
-              Incognito
+              FRIENDZ
             </div>
             <p className="text-zinc-400 max-w-md mb-8 text-sm sm:text-base">
               Anonymous video conversations with strangers worldwide.
