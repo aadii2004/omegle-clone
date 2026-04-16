@@ -5,7 +5,7 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Incognito | Anonymous Video Chat",
+  title: "FRIENDZ | Anonymous Video Chat",
   description: "Random video or Voice Chat with Random People",
 };
 
