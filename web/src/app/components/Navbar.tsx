@@ -17,7 +17,7 @@ function Navbar({show}:{show:Boolean}) {
            <span className='flex items-center justify-center w-9 h-9 rounded-xl bg-white/10'>
             <Sparkle size={18} color='white'/>
            </span>
-           <span className='text-lg font-semibold tracking-tight text-white'>Incognito</span>
+           <span className='text-lg font-semibold tracking-tight text-white'>FRIENDZ</span>
         </div>
       
     </motion.div>
